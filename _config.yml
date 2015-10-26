@@ -1,7 +1,7 @@
 name: KidCurrency
 favicon: null
 layout_spectrum: 0.00161
-typography_spectrum: 0.5
+typography_spectrum: 0.02419
 collections:
   - index:
       path: /
