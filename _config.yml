@@ -1,14 +1,29 @@
+name: KidCurrency
+favicon: null
 layout_spectrum: 0.810882
+typography_spectrum: 0.5
+title: KidCurrency
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  lightness: 0.9348289
-  brandStrength: 0.9787029
   brandColors:
     - '#7F7864'
     - '#FFFFFF'
     - '#6D1529'
     - '#15171E'
     - '#306637'
+  brandStrength: 0.9787029
+  lightness: 0.9348289
+  saturation: 1
   rhythmicContrast: 0.3180443
-typography_spectrum: 0
-name: KidCurrency
+purpose: []
