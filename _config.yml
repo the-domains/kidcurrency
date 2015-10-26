@@ -13,14 +13,14 @@ collections:
 color:
   saturation: 1
   brandStrength: 0.9787029
-  rhythmicContrast: 0.3180443
+  lightness: 1
   brandColors:
     - '#7F7864'
     - '#FFFFFF'
     - '#6D1529'
     - '#15171E'
     - '#306637'
-  lightness: 0.9348289
+  rhythmicContrast: 1
 typography_spectrum: 0.5
-layout_spectrum: 0.4946237
+layout_spectrum: 0.983871
 name: KidCurrency
