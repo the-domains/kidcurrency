@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.5
 color:
   saturation: 1
   brandStrength: 0.9787029
@@ -21,6 +22,5 @@ color:
     - '#15171E'
     - '#306637'
   rhythmicContrast: 1
-typography_spectrum: 0.5
-layout_spectrum: 0.983871
+layout_spectrum: 0.5573477
 name: KidCurrency
