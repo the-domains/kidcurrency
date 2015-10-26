@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.5
 color:
   saturation: 1
   brandStrength: 1
-  lightness: 1
+  rhythmicContrast: 1
   brandColors:
     - '#2F1715'
     - '#785A43'
     - '#90BEBD'
     - '#FFFFFB'
     - '#C6AC99'
-  rhythmicContrast: 1
-layout_spectrum: 0.5573477
+  lightness: 1
+layout_spectrum: 0.3028674
 name: KidCurrency
