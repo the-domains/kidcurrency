@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Test 2
-datePublished: '2015-10-26T11:55:42.713Z'
-dateModified: '2015-10-26T11:55:28.268Z'
+datePublished: '2015-10-26T12:01:21.298Z'
+dateModified: '2015-10-26T11:55:42.713Z'
 title: 'Test 2 featured '
 authors: []
 publisher:
